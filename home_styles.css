@@ -1,0 +1,14 @@
+h1 {
+    font-size: 100px;
+    color: rgb(0, 119, 255);
+}
+
+* {
+    background-color: aliceblue;
+}
+
+a {
+    outline: auto;
+    font-size: 24px;
+    background-color: white;
+}

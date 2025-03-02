@@ -1,0 +1,29 @@
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+* {
+    background-color: aliceblue;
+}
+
+a {
+    outline: auto;
+    font-size: 24px;
+    background-color: white;
+}
+
+img {
+    outline: auto;
+}
+
+p,ul,ol {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased !important;
+    -moz-font-smoothing: antialiased !important;
+    text-rendering: optimizelegibility !important;
+    letter-spacing: .03em;
+  }
